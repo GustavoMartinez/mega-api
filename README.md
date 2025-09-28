@@ -31,6 +31,7 @@ INSERT INTO contenidos (titulo, descripcion, imagen, url) VALUES
  'https://elfiltrador.com/wp-content/uploads/2024/11/Only-fama-Mega.webp',
  'https://mdstrm.com/video/688160898e68b8ab1e4f1c7a.m3u8'),
 
+** Ejecutar node js desde src
 ('Mucho Gusto',
  'Matinal, producido y transmitido por Mega desde el Mes de Septiembre del año 2001, y es conducido actualmente por Karen Doggenweiler y José Antonio Neme.',
  'https://elfiltrador.com/wp-content/uploads/2023/09/Mucho-Gusto-Mega.webp',
